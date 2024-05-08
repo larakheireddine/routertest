@@ -1,0 +1,144 @@
+.App {
+  margin:0px 0px 0px 0px;
+  background-color: #0F2046 ;
+  text-align: left;
+}
+h1 {
+  color: #B4CAFF;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+  font-size: 200px;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fit-form {
+  vertical-align: top;
+  display: inline-block;
+  background-color: transparent;
+  width: 52%;
+  height: 900px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+input {
+  border: 4px solid #B4CAFF;
+  margin: 10px;
+  margin-right: 100px;
+  padding: 2px;
+  width: 195px;
+  height: 30px;
+  border-radius: 10px;
+}
+select {
+  border: 4px solid #B4CAFF;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 18px;
+  padding: 3px;
+  width: 195px;
+  height: 35px;
+  border-radius: 10px;
+}
+.fit-form label {
+  font-size: 22px;
+  font-weight: bold;
+  color: #EE92FF;
+}
+.fit-form p {
+  color: #EE92FF;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 800;
+  font-size: 26px;
+}
+.fit-form button {
+  margin-top: 40px;
+  background-color: #B4CAFF;
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 195px;
+  height: 55px;
+  font-size: 18px;
+}
+.fit-mess {
+  display: inline-block;
+  vertical-align: center;
+  background-color: rgba(180, 202, 255, 0.6);
+  border-radius: 25px;
+  width: 40%;
+  height: 800px;
+  padding: 20px;
+  margin-left: 10px;
+  margin-top: 28px;
+}
+.fit-mess p {
+  font-size: 18px;
+  color: white;
+  font-weight: 600;
+}
+.fit-mess li {
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  padding: 3px;
+}
+
+h2 {
+  color: white;
+  font-size: 25px;
+}
+
+.fullwork {
+  margin-left: 10px;
+  height: 900px;
+}
+
+.reason h4 {
+  color: white;
+  font-weight: 600;
+  font-size: medium;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.fullwork h1 {
+  color: #B4CAFF;
+  margin-top: 5px;
+  margin-bottom: 1px;
+  letter-spacing: 2px;
+  font-size: 200px;
+  font-weight: bolder;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.fullwork p {
+  font-size: 18px;
+  color: white;
+  margin-left: 10px;
+}
+
+.fullwork li {
+  font-size: 18px;
+  color: white;
+  font-weight: 400;
+  padding: 3px;
+}
+
+.reason {
+  border-radius: 20px;
+  padding: 5px;
+  margin-left: 75px;
+  width: 90%;
+  height: 150px;
+  background-color: rgba(180, 202, 255, 0.6);
+}
+
+.reason button {
+  border-radius: 8px;
+  border: white solid;
+  margin-left: 7px;
+  height: 25px;
+  width: 80px;
+}
