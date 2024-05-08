@@ -55,6 +55,7 @@ function MyFitness() {
   const handleReset = () => {
     setValue('nothing');
     setFirst(' ');
+    setLast(' ');
     setMessage(' ');
     setWorkouts(' ');
   } 
